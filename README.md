@@ -10,4 +10,7 @@
 
 ![GitHub 統計](https://github-readme-stats.vercel.app/api?username=jojononstop&show_icons=true&theme=vue-dark)
 
+![版本](https://img.shields.io/badge/version-1.0-blue.svg)
+
+
 
