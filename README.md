@@ -10,7 +10,6 @@
 
 ![GitHub 統計](https://github-readme-stats.vercel.app/api?username=jojononstop&show_icons=true&theme=vue-dark)
 
-![活動圖表](https://activity-graph.herokuapp.com/graph?username=jojononstop&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 
 
